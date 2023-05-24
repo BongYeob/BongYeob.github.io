@@ -4,7 +4,7 @@ title: About
 permalink: /contact/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~.dd
 
 [Link to another page](./another-page.html).
 
