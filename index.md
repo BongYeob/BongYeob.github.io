@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Hello everyone, my name is HongYeob Kim
+home_text: Welcome! this is HongYeob's page😁
 title: Rohit Jain
 ---
