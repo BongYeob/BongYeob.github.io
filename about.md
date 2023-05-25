@@ -41,9 +41,10 @@ permalink: /about/
 ## 💡 Where I studied ...
 *   충남삼성고등학교 졸업 (2016 ~ 2018)<br>
 ![high_school_image](./screenshots/다운로드.png)
+![high_school_image1](./screenshots/다운로드1.png)
 <br>
 *   성균관대학교 소프트웨어학과 재학 중 (2019 ~ )<br>
-![high_school_image1](./screenshots/다운로드 (1).png)
+![sungkyunkwan](./screenshots/img.jpg)
 
 
 
