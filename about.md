@@ -44,7 +44,7 @@ permalink: /about/
 ![high_school_image1](./screenshots/다운로드1.png)
 <br>
 *   성균관대학교 소프트웨어학과 재학 중 (2019 ~ )<br>
-![sungkyunkwan](./screenshots/img.jpg){: width="50%"}<br>
+![sungkyunkwan](./screenshots/img.jpg){: width="50%" height="50%"}<br>
 
 
 
